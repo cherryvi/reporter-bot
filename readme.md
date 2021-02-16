@@ -1,3 +1,3 @@
 # Reporter Bot
-#### A most excellent bot!
+## A most excellent bot!
 by serv.eth
