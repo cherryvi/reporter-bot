@@ -1,2 +1,3 @@
-# a most excellent reported bot
+# Reporter Bot
+#### A most excellent bot!
 by serv.eth
